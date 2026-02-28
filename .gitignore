@@ -21,6 +21,3 @@ build/
 
 # Jupyter
 .ipynb_checkpoints/
-
-# Trace files
-traced_files.json
