@@ -1,0 +1,26 @@
+# Data
+data/
+*.pkl
+*.pth
+
+# Work dirs
+work_dirs/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# CUDA build
+*.so
+*.o
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trace files
+traced_files.json

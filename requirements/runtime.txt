@@ -1,0 +1,9 @@
+matplotlib
+mmcv-full>=1.3
+numpy
+# need older pillow until torchvision is fixed
+Pillow
+six
+terminaltables
+torch>=1.3
+torchvision
